@@ -1,0 +1,13 @@
+models:
+  - name: speech_to_text
+    module: speech_to_text
+    function: TranscriptionGenerator.transcribe
+    table_model: STTResult
+    output_columns: [job_id, model_id, correlation_id, transcription, audio_duration, inserted_at]
+    params: [audio_contents] 
+  - name: stress_analysis
+    module: stress_analysis
+    function: StressAnalysisGenerator.transcribe
+    table_model: SAResult
+    output_columns: [job_id, model_id, correlation_id, emotion_result, confidence_value, audio_duration, inserted_at]
+    params: [audio_contents] 
