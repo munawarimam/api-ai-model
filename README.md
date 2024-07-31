@@ -1,4 +1,8 @@
-AI Model Speech to Text
+## Speech-to-Text and Stress Analysis API
+This repository contains an API that leverages advanced AI models for speech-to-text conversion and stress analysis. The API allows users to upload audio files in MP3 and WAV formats. It processes the audio to provide two key features:
+
+1. Speech-to-Text Conversion: Transcribes the spoken content in the audio into text.
+2. Stress Analysis: Analyzes the audio for stress indicators and provides insights based on vocal patterns.
 
 ### Quick Start in local
 
