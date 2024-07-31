@@ -19,4 +19,36 @@ $ pytest
 ```
 
 ### Result
-Swagger UI, you can access it on http://localhost/api/v1/docs#/
+
+#### 1. Swagger UI, you can access it on http://localhost/api/v1/docs#/
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2013.04.03.png?raw=true)
+
+#### 2. Create User
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2015.40.10.png?raw=true)
+
+#### 3. Get Token
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2013.11.54.png?raw=true)
+
+#### 4. Token Expired
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2013.16.17.png?raw=true)
+
+#### 5. Models
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2013.23.59.png?raw=true)
+
+#### 6. Transcript Audio
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2014.49.23.png?raw=true)
+
+#### 7. Check Status Transcript
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2014.49.36.png?raw=true)
+
+#### 8. Get Result
+
+![alt text](https://github.com/munawarimam/api-ai-model/blob/main/results/Screenshot%202024-07-31%20at%2014.49.51.png?raw=true)
+
